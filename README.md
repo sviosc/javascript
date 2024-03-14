@@ -4,6 +4,5 @@ repo para aprendizagem de javascript
 Vinícios
 --
 ## ETEC Sales Gomes
---
 ## Curso de Desenvolvimento de Sistemas
 Programação de aplicativos mobile I
